@@ -183,3 +183,36 @@ while True:
 # ============================================================
 # Viel Erfolg! 🚀
 # ============================================================
+
+# Hallo zusammen,
+
+# hier noch eine kurze Erklärung zum bereitgestellten Code und wie er im Kontext eurer Abgabe zu verstehen ist:
+
+# Der Code ist bewusst in mehrere Funktionen aufgeteilt, die jeweils einer Teilaufgabe entsprechen:
+
+# pflichtteil() → bildet die grundlegende Logik der Einfahrtskontrolle ab
+# weiterfuehrend() → erweitert das Ganze um Schleifen, Zählung und eine einfache Auswertung
+# bonus() + berechne_preis() → zeigt eine mögliche Zusatzfunktion (z. B. Preisberechnung)
+# challenge() → stellt ein vereinfachtes Gesamtsystem mit Parkplätzen dar
+
+
+# Wichtig für eure Abgabe:
+# Orientiert euch an genau dieser Struktur.
+
+# Das bedeutet:
+
+# Jede Teilaufgabe sollte in einer eigenen Datei umgesetzt werden
+
+# Die Funktionen im Beispiel zeigen euch, welche Logik jeweils erwartet wird
+
+
+# Für den Challenge-Teil gilt:
+
+# Hier könnt ihr die einzelnen Aspekte in einem Gesamtsystem zusammenführen
+# Die Einfahrtslogik sollte enthalten sein
+# Erweiterungen (wie z. B. Preisberechnung) sind optional
+
+
+# Der Code dient also nicht nur als Lösung, sondern auch als Leitfaden für Aufbau und Struktur eurer Abgabe.
+
+# Wenn etwas unklar ist, meldet euch jederzeit!
