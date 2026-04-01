@@ -1,7 +1,7 @@
 # ===============================================
 # Python Iteration & Methoden: Übersicht + Beispiele
 # ===============================================
-# Autor: Musterlösung
+# Autor: Marcus Wunderle
 # Beschreibung: Dieses Skript demonstriert alle wichtigen Methoden und Iterationsmöglichkeiten
 # für Listen, Sets, Dictionaries und Tuples in Python, inklusive detaillierter Erklärungen
 # und praxisnaher Anwendungsfälle.
