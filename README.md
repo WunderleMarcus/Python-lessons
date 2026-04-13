@@ -46,7 +46,7 @@ Dieses Projekt soll:
 Repository lokal klonen:
 
 ```bash
-git clone https://github.com/MarcusWunderle/Python-lessons.git
+git clone https://github.com/WunderleMarcus/Python-lessons.git
 cd Python-lessons
 ```
 
